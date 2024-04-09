@@ -8,11 +8,11 @@
 
 
 🔹 ISTQB Certified QA Professional  
-🔹 1.8+ years of experience in Software QA  
+🔹 2+ years of experience in Software QA  
 🔹 Experienced in testing Fintech, WordPress, SaaS, & eCommerce services  
 🔹 Performed comprehensive payment service tests for financial membership platform  
 🔹 Hands-on Web & API automation experience for microservices platform  
-🔹Training new QA staff on products and services
+🔹 Training new QA staff on products and services
 
 <!--
 **StalinDurjo/stalindurjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
