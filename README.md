@@ -8,7 +8,7 @@
 
 
 🔹 ISTQB Certified QA Professional  
-🔹 2+ years of experience in Software QA  
+🔹 2.8 years of experience in Software QA  
 🔹 Experienced in testing Fintech, WordPress, SaaS, & eCommerce services  
 🔹 Performed comprehensive payment service tests for financial membership platform  
 🔹 Hands-on Web & API automation experience for microservices platform  
